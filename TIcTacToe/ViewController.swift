@@ -28,6 +28,8 @@ class ViewController: UIViewController
     @IBOutlet weak var c3: UIButton!
     @IBOutlet weak var c2: UIButton!
     
+    var 
+    
     override func viewDidLoad()
     {
         super.viewDidLoad()

@@ -28,7 +28,11 @@ class ViewController: UIViewController
     @IBOutlet weak var c3: UIButton!
     @IBOutlet weak var c2: UIButton!
     
-    var 
+    var firstTurn = Turn.Cross
+    var currentTurn = Turn.Cross
+    
+    var Nought = "O"
+    var Cross = "X"
     
     override func viewDidLoad()
     {
